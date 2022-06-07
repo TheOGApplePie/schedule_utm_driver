@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "154671590346",
+    "project_id": "utm-shuttle-bus-tracker-3d7a1",
+    "storage_bucket": "utm-shuttle-bus-tracker-3d7a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154671590346:android:bc5f4cbde90e91cab7bd33",
+        "android_client_info": {
+          "package_name": "com.example.schedule_utm_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154671590346-g4s6igq5s1gpdjh9qiup7vkndp1md1ei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjbm-18-5QDhA3Vq80ophA_IuOF4OsdVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154671590346-g4s6igq5s1gpdjh9qiup7vkndp1md1ei.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "154671590346-2036heudtmbga0pogso3f3td087m11ob.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.scheduleUtmStudent"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154671590346:android:b1a6abf458713e9db7bd33",
+        "android_client_info": {
+          "package_name": "com.example.schedule_utm_student"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154671590346-g4s6igq5s1gpdjh9qiup7vkndp1md1ei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjbm-18-5QDhA3Vq80ophA_IuOF4OsdVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154671590346-g4s6igq5s1gpdjh9qiup7vkndp1md1ei.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "154671590346-2036heudtmbga0pogso3f3td087m11ob.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.scheduleUtmStudent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
